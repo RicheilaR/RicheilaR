@@ -3,7 +3,7 @@
 
 - 💻 I'm a college student studying **Human Resource Management, Criminal Justice, and Computer Information Systems** with a concentration in **Networking and Cybersecurity**.
 - 🎓 I'm currently seeking an internship to gain hands-on experience in the tech industry.
-- 🖥️ I work with various programming languages, including C++, Java, and SQL.
+- 🖥️ I work with various programming languages, including C++, and Java.
 - 🔍 I have a strong interest in web development, software engineering, and cybersecurity.
 - 📚 I'm continuously learning and improving my skills in technology and business.
 - ✉️ How to reach me: **richeila-richardson@hotmail.com**
